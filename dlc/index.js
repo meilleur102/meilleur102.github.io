@@ -28,9 +28,11 @@
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
     },
+    {   
         "file": "newdlc.dlc",
         "title": "NewDlc",
         "buttons":[
             { "title": "NewDlc ", "action": [75,0,4,4] }
         ]
+    }
 ]
