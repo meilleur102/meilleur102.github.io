@@ -15,17 +15,17 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "EvilSeed.dlc", 
+        "title": "EvilSeed",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "EvilSeed ", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "SciFix.dlc", 
+        "title": "SciFix",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "SciFix ", "action": [75,0,4,4] }
         ]
     }
     
