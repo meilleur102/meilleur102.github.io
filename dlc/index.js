@@ -1,9 +1,9 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tu003410.dlc", 
+        "title": "OEM DLC",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "OEM", "action": [75,0,4,4] }
         ]
     },
     { 
@@ -27,12 +27,6 @@
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
-    },
-    {   
-        "file": "newdlc.dlc",
-        "title": "NewDlc",
-        "buttons":[
-            { "title": "NewDlc ", "action": [75,0,4,4] }
-        ]
     }
+    
 ]
